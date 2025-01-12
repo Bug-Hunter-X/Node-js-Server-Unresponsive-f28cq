@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common Node.js server issue where the server starts but fails to respond to incoming requests.  The `server.js` file contains the buggy code, and `serverSolution.js` provides the corrected version.  The issue stems from improper error handling and a lack of event listeners for specific requests.
